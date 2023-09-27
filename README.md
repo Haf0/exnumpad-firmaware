@@ -4,9 +4,9 @@
 
 A 14-20 key numpad that can be assembled with only through hole components, including usb type-c
 
-Keyboard Maintainer: [Androdi](https://www.instagram.com/androdi.std/)  
-Hardware Supported: atmega328p  
-Hardware Availability: [tokopedia.com](https://www.tokopedia.com/androdi-studio)
+Keyboard Maintainer   : [Androdi](https://www.instagram.com/androdi.std/)
+Hardware Supported    : Atmega328P 
+Hardware Availability : [Tokopedia.com](https://www.tokopedia.com/androdi-studio)
 
 Make example for this keyboard (after setting up your build environment):
 
