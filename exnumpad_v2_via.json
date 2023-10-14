@@ -1,7 +1,7 @@
 {
   "name": "ExNumpad Ver.2",
   "vendorId": "0x4153",
-  "productId": 0x454E",
+  "productId": "0x454E",
   "matrix": {
     "rows": 5,
     "cols": 4
